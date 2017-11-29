@@ -8,7 +8,7 @@ Liri is like iPhone's SIRI, however Liri is a *Language* Interpretation and Reco
 
 -Search for a movie by entering the command `movie "<movie name>"`
 
--Write commands to **random.txt** in the format of `action,"name"` and separate commands on different lines. Execute them by entering the command `do-what-it-says`
+-Write commands to **random.txt** in the format of `action,"<name>"` and separate commands on different lines. Execute them by entering the command `do-what-it-says`
 
 
 -The names in quotes are **optional**. If no name is entered, a **default** will be searched for instead.
