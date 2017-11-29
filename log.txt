@@ -1,0 +1,56 @@
+Liri Log: Tue Nov 28 2017 19:39:03 GMT-0600 (Central Standard Time)
+Command: tweets
+Bob Williams @BobWill77299309
+'Second Tweet! #mySecondTweet'
+Tue Nov 28 18:03:08 +0000 2017
+------------------------------
+Bob Williams @BobWill77299309
+'Hello Twitter! #myfirstTweet'
+Tue Nov 28 17:23:26 +0000 2017
+------------------------------
+
+
+Liri Log: Tue Nov 28 2017 19:39:17 GMT-0600 (Central Standard Time)
+Command: spotify
+Artist: The Karaoke ChannelSong: The Sign (Originally Performed by Ace of Base) [Karaoke Version]
+Album: The Karaoke Channel - Sing the Sign Like Ace of Base
+Song Preview Url: https://p.scdn.co/mp3-preview/f4b3590097ad447c3c6e2114e36ab73aef6af0b8?cid=632c6c75641049aeb8e95c73a8925b48
+
+Liri Log: Tue Nov 28 2017 19:39:36 GMT-0600 (Central Standard Time)
+Command: movie Inception
+Title: Inception
+Release Date: 16 Jul 2010
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 86%
+Country Produced: USA, UK
+Language: English, Japanese, French
+Plot: A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.
+Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+
+Liri Log: Tue Nov 28 2017 19:40:21 GMT-0600 (Central Standard Time)
+Command: do-what-it-says 
+Title: Frozen
+Release Date: 27 Nov 2013
+IMDB Rating: 7.5
+Rotten Tomatoes Rating: 89%
+Country Produced: USA
+Language: English, Icelandic
+Plot: When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+
+Liri Log: Tue Nov 28 2017 19:40:22 GMT-0600 (Central Standard Time)
+Command: do-what-it-says 
+Artist: Backstreet BoysSong: I Want It That Way
+Album: The Hits--Chapter One
+Song Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=632c6c75641049aeb8e95c73a8925b48
+
+Liri Log: Tue Nov 28 2017 19:42:57 GMT-0600 (Central Standard Time)
+Command: abc 
+Unrecognized command. Please try again from the options below.
+The names in quotes are optional:
+
+    tweets '<user name>'
+    spotify '<song name>'
+    movie '<movie name>'
+    do-what-it-says
+
