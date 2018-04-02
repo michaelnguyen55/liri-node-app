@@ -54,3 +54,207 @@ The names in quotes are optional:
     movie '<movie name>'
     do-what-it-says
 
+Liri Log: Mon Apr 02 2018 17:34:32 GMT-0500 (Central Daylight Time)
+Command: 
+Unrecognized command. Please try again from the options below.
+The names in quotes are optional:
+
+    tweets '<user name>'
+    spotify '<song name>'
+    movie '<movie name>'
+    do-what-it-says
+
+Liri Log: Mon Apr 02 2018 17:38:09 GMT-0500 (Central Daylight Time)
+Command: realDonaldTrump 
+Unrecognized command. Please try again from the options below.
+The names in quotes are optional:
+
+    tweets '<user name>'
+    spotify '<song name>'
+    movie '<movie name>'
+    do-what-it-says
+
+Liri Log: Mon Apr 02 2018 17:38:22 GMT-0500 (Central Daylight Time)
+Command: tweets realDonaldTrump 
+Donald J. Trump @realDonaldTrump
+'“President Donald J. Trump Proclaims April 2, 2018, World Autism Awareness Day” https://t.co/ECBCHfll0p'
+Mon Apr 02 16:38:29 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'An honor to host the Annual @WhiteHouse Easter Egg Roll! https://t.co/bOMJRK8FyK'
+Mon Apr 02 15:41:04 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'So sad that the Department of “Justice” and the FBI are slow walking, or even not giving, the unredacted documents… https://t.co/zrp3XHOf6C'
+Mon Apr 02 13:58:00 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'Only fools, or worse, are saying that our money losing Post Office makes money with Amazon. THEY LOSE A FORTUNE, an… https://t.co/LeaMuxR6Hb'
+Mon Apr 02 13:35:03 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'So funny to watch Fake News Networks, among the most dishonest groups of people I have ever dealt with, criticize S… https://t.co/DPVwCxlewf'
+Mon Apr 02 13:28:42 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'Mexico is making a fortune on NAFTA...They have very strong border laws - ours are pathetic. With all of the money… https://t.co/I8q69xZXwF'
+Mon Apr 02 13:08:47 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'DACA is dead because the Democrats didn’t care or act, and now everyone wants to get onto the DACA bandwagon... No… https://t.co/8PfirxPo6U'
+Mon Apr 02 11:17:19 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'...Congress must immediately pass Border Legislation, use Nuclear Option if necessary, to stop the massive inflow o… https://t.co/ExRfHnXZER'
+Mon Apr 02 11:10:19 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'Mexico has the absolute power not to let these large “Caravans” of people enter their country. They must stop them… https://t.co/qMMjqfSmnY'
+Mon Apr 02 11:02:30 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'These big flows of people are all trying to take advantage of DACA. They want in on the act!'
+Sun Apr 01 14:28:19 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'Mexico is doing very little, if not NOTHING, at stopping people from flowing into Mexico through their Southern Bor… https://t.co/9ZjeOUnVtd'
+Sun Apr 01 14:25:46 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'Border Patrol Agents are not allowed to properly do their job at the Border because of ridiculous liberal (Democrat… https://t.co/DdTVIyin70'
+Sun Apr 01 13:56:34 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'HAPPY EASTER!'
+Sun Apr 01 12:27:02 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'Governor Jerry “Moonbeam” Brown pardoned 5 criminal illegal aliens whose crimes include (1) Kidnapping and Robbery… https://t.co/mUBIqzKARD'
+Sat Mar 31 12:53:01 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'...does not include the Fake Washington Post, which is used as a “lobbyist” and should so  REGISTER. If the P.O. “i… https://t.co/D6wEE6pxVk'
+Sat Mar 31 12:52:59 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'While we are on the subject, it is reported that the U.S. Post Office will lose $1.50 on average for each package i… https://t.co/KJjzUtRvI3'
+Sat Mar 31 12:45:41 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'https://t.co/UM3YJ6lUiD'
+Fri Mar 30 20:24:56 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'Washington spent trillions building up foreign countries while allowing OUR OWN infrastructure to fall into a state… https://t.co/TkcOWOL5tf'
+Thu Mar 29 20:06:37 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'JOBS, JOBS, JOBS! Unemployment claims have fallen to a 45-year low. Together, we are making the economy great again! https://t.co/pN2TE5HDQm'
+Thu Mar 29 19:58:35 +0000 2018
+------------------------------
+Donald J. Trump @realDonaldTrump
+'We are going to REBUILD our crumbling infrastructure, and there is no better place to begin this campaign than in t… https://t.co/5tbcDBRyqP'
+Thu Mar 29 19:44:06 +0000 2018
+------------------------------
+
+
+Liri Log: Mon Apr 02 2018 17:46:32 GMT-0500 (Central Daylight Time)
+Command: spotify never gonna give you up 
+Unrecognized command. Please try again from the options below.
+The names in quotes are optional:
+
+    tweets '<user name>'
+    spotify '<song name>'
+    movie '<movie name>'
+    do-what-it-says
+
+Liri Log: Mon Apr 02 2018 17:46:52 GMT-0500 (Central Daylight Time)
+Command: spotify Never Gonna Give You Up 
+Artist: Rick AstleySong: Never Gonna Give You Up
+Album: Whenever You Need Somebody
+Song Preview Url: https://p.scdn.co/mp3-preview/22bf10aff02db272f0a053dff5c0063d729df988?cid=632c6c75641049aeb8e95c73a8925b48
+
+Liri Log: Mon Apr 02 2018 17:47:09 GMT-0500 (Central Daylight Time)
+Command: spotify Never Gonna Give You Up 
+Unrecognized command. Please try again from the options below.
+The names in quotes are optional:
+
+    tweets '<user name>'
+    spotify '<song name>'
+    movie '<movie name>'
+    do-what-it-says
+
+Liri Log: Mon Apr 02 2018 17:50:14 GMT-0500 (Central Daylight Time)
+Command: spotify Never Gonna Give You Up 
+Unrecognized command. Please try again from the options below.
+The names in quotes are optional:
+
+    tweets '<user name>'
+    spotify '<song name>'
+    movie '<movie name>'
+    do-what-it-says
+
+Liri Log: Mon Apr 02 2018 17:50:21 GMT-0500 (Central Daylight Time)
+Command: spotify Never Gonna Give You Up 
+Artist: Rick Astley
+Song: Never Gonna Give You Up
+Album: Whenever You Need Somebody
+Song Preview Url: https://p.scdn.co/mp3-preview/22bf10aff02db272f0a053dff5c0063d729df988?cid=632c6c75641049aeb8e95c73a8925b48
+
+Liri Log: Mon Apr 02 2018 17:51:50 GMT-0500 (Central Daylight Time)
+Command: movie Moana 
+Title: Moana
+Release Date: 23 Nov 2016
+IMDB Rating: 7.6
+Rotten Tomatoes Rating: 95%
+Country Produced: USA
+Language: English
+Plot: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
+Actors: Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
+
+Liri Log: Mon Apr 02 2018 17:58:38 GMT-0500 (Central Daylight Time)
+Command: do-what-it-says 
+Title: Frozen
+Release Date: 27 Nov 2013
+IMDB Rating: 7.5
+Rotten Tomatoes Rating: 90%
+Country Produced: USA
+Language: English, Norwegian
+Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+
+Liri Log: Mon Apr 02 2018 17:58:40 GMT-0500 (Central Daylight Time)
+Command: do-what-it-says 
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Song Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=632c6c75641049aeb8e95c73a8925b48
+
+Liri Log: Mon Apr 02 2018 18:00:01 GMT-0500 (Central Daylight Time)
+Command: movie 
+Title: Mr. Nobody
+Release Date: 26 Sep 2013
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 66%
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Liri Log: Mon Apr 02 2018 18:00:24 GMT-0500 (Central Daylight Time)
+Command: spotify 
+Artist: The Karaoke Channel
+Song: The Sign (Originally Performed by Ace of Base) [Karaoke Version]
+Album: The Karaoke Channel - Sing the Sign Like Ace of Base
+Song Preview Url: https://p.scdn.co/mp3-preview/f4b3590097ad447c3c6e2114e36ab73aef6af0b8?cid=632c6c75641049aeb8e95c73a8925b48
+
+Liri Log: Mon Apr 02 2018 18:03:12 GMT-0500 (Central Daylight Time)
+Command: abcdefg 
+Unrecognized command. Please try again from the options below.
+The names in quotes are optional:
+
+    tweets '<user name>'
+    spotify '<song name>'
+    movie '<movie name>'
+    do-what-it-says
+

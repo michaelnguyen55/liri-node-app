@@ -150,7 +150,7 @@ var liri = {
 				};
 
 				//Displays the song's name and album name.
-				text += ("Song: " + song.name + "\n" + "Album: " + song.album.name + "\n");
+				text += ("\nSong: " + song.name + "\n" + "Album: " + song.album.name + "\n");
 
 				//Displays the song's preview link.
 				//If there is no song preview link, then text saying it is unavailable will be shown.
