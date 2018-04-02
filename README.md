@@ -1,6 +1,15 @@
 # liri-node-app
 Liri is like iPhone's SIRI, however Liri is a *Language* Interpretation and Recognition Interface. Liri is a command line node app that takes in parameters and gives you back data. You can search for details about user tweets, songs, or movies.
 
+## Table of Contents
+* [Instructions For Using Liri](#instructions-for-using-liri)
+* [Twitter](#twitter)
+* [Spotify](#spotify)
+* [OMDB](#omdb)
+* [Multiple Commands](#multiple-commands)
+* [Extras](#extras)
+* [Technologies Used](#technologies-used)
+
 ## Instructions For Using Liri:
 * There are 4 different options that users can do. They can use see tweets, songs, movies, or do multiple of them at the same time.
 
@@ -42,7 +51,7 @@ Liri is like iPhone's SIRI, however Liri is a *Language* Interpretation and Reco
 
 ![Log](images/log.PNG)
 
-* If a user enters someth ing other than the commands listed, an error message will be displayed showing what commands you can do
+* If a user enters something other than the commands listed, an error message will be displayed showing what commands you can do
 
 ![Begin Wrong](images/begin-wrong.PNG)
 
