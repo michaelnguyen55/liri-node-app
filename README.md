@@ -11,29 +11,29 @@ Liri is like iPhone's SIRI, however Liri is a *Language* Interpretation and Reco
 * [Technologies Used](#technologies-used)
 
 ## Instructions For Using Liri:
-* There are 4 different options that users can do. They can use see tweets, songs, movies, or do multiple of them at the same time.
+* There are 4 different options that users can do. They can use options that involved tweets, songs, movies, or do multiple of them at the same time.
 
 ## Twitter
-1. Search for a twitter user's tweets by entering the command `tweets "<user name>"`
+1. Search for a twitter user's tweets by entering the command `tweets <user name>`
 2. The latest 20 tweets are shown by the user
 
 ![Twitter](images/twitter.PNG)
 
 ## Spotify
-1. Search for a song by entering the command `spotify "<song name>"`.
-	* Make sure that the song name is in quotes if the song name is more than one word
+1. Search for a song by entering the command `spotify <song name>`
+	* Make sure that the song name is in **quotes** if the song name is more than one word
 2. The artist's name, song's name, album that the song belongs to, and a preview url of the song will be shown
 
 ![Spotify](images/spotify.PNG)
 
 ## OMDB
-1. Search for a movie by entering the command `movie "<movie name>"`
+1. Search for a movie by entering the command `movie <movie name>`
 2. The movie's title, release date, rating, country produced, language, plot summary, and actors will be shown
 
 ![OMDB](images/omdb.PNG)
 
 ## Multiple Commands
-1. Write commands to **random.txt** in the format of `action,"<name>"` and separate commands on different lines. Execute them by entering the command `do-what-it-says`
+1. Write commands to **random.txt** in the format of `action, <name>` and separate commands on different lines. Execute them by entering the command `do-what-it-says`
 
 ![Random](images/random.PNG)
 
